@@ -1,0 +1,7 @@
+hello
+my
+name
+is
+kappa
+pride
+@@@ENDOFBENCHMARK@@@
